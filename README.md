@@ -34,3 +34,7 @@ Analiz için 4 farklı senaryo tasarlanmıştır:
 
 ---
 *Bu proje; 25.10.2025 tarihinde, Eskişehir Osmangazi Üniversitesi Bilgisayar Mühendisliği bünyesindeki gönüllü yapay zeka asistanlığı projesi kapsamında yapılmıştır.*
+
+
+## Katkıda Bulunan
+* Emre Karaaydın
