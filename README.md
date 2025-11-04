@@ -33,4 +33,4 @@ Analiz için 4 farklı senaryo tasarlanmıştır:
 İris veri setini kümelemek için en iyi yöntem ham veriyi kullanmaktır. Bu senaryoda iki model de performans açısından eşdeğerdir. Ancak K-Means'in farklı senaryolara karşı daha dayanıklı olduğu gözlenmiştir.
 
 ---
-*Bu proje, Eskişehir Osmangazi Üniversitesi Bilgisayar Mühendisliği bünyesindeki gönüllü yapay zeka asistanlığı projesi kapsamında yapılmıştır.*
+*Bu proje; 25.10.2025 tarihinde, Eskişehir Osmangazi Üniversitesi Bilgisayar Mühendisliği bünyesindeki gönüllü yapay zeka asistanlığı projesi kapsamında yapılmıştır.*
